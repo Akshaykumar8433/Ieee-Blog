@@ -1,0 +1,33 @@
+.themify_builder_91_row.module_row_0.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; text-align: center; padding-top:15%; padding-bottom:15%; }
+.themify_builder_91_row.module_row_0.module_row>.builder_row_cover::before{background-color:rgba(0,0,0, 0.10); }
+.themify_builder_91_row.module_row_0.module_row>.builder_row_cover::after{background-color:rgba(0,0,0, 0.05); }
+.themify_builder_91_row.module_row_0.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_91_row.module_row_0.module_row,.themify_builder_91_row.module_row_0 h1,.themify_builder_91_row.module_row_0 h2,.themify_builder_91_row.module_row_0 h3:not(.module-title),.themify_builder_91_row.module_row_0 h4,.themify_builder_91_row.module_row_0 h5,.themify_builder_91_row.module_row_0 h6{color:#ffffff; }
+.themify_builder .text-91-0-0-0.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder .text-91-0-0-1.module-text{background-repeat: repeat; background-position: left top; font-size:24px; }
+.themify_builder .icon-91-0-0-2 div.module-icon{background-repeat: repeat; background-position: left top; }
+.themify_builder .icon-91-0-0-2 div.module-icon .module-icon-item i{color:#ffffff; }
+.themify_builder_91_row.module_row_1.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_91_row.module_row_1.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .post-91-1-0-0.module-post{font-family: Adamina; font-weight: 400; text-align: center; font-style: italic; }
+.themify_builder .post-91-1-0-0.module-post,.themify_builder .post-91-1-0-0.module-post a{color:#4a4041; }
+.themify_builder .post-91-1-0-0.module-post .post-title,.themify_builder .post-91-1-0-0.module-post .post-title a{font-family: Alike; }
+.themify_builder .post-91-1-0-0.module-post .post-title{font-weight: 400; font-size:30px; text-decoration: underline; text-transform: uppercase; font-style: normal; }
+@media screen and (max-width: 1280px) {.themify_builder .post-91-1-0-0.module-post{font-family: Adamina; font-weight: 400; text-align: center; font-style: italic; }
+.themify_builder .post-91-1-0-0.module-post .post-title,.themify_builder .post-91-1-0-0.module-post .post-title a{font-family: Alike; }
+.themify_builder .post-91-1-0-0.module-post .post-title{font-weight: 400; text-decoration: underline; text-transform: uppercase; font-style: normal; }
+}
+@media screen and (max-width: 768px) {.themify_builder .post-91-1-0-0.module-post{font-family: Adamina; font-weight: 400; text-align: center; font-style: italic; }
+.themify_builder .post-91-1-0-0.module-post .post-title,.themify_builder .post-91-1-0-0.module-post .post-title a{font-family: Alike; }
+.themify_builder .post-91-1-0-0.module-post .post-title{font-weight: 400; text-decoration: underline; text-transform: uppercase; font-style: normal; }
+}
+@media screen and (max-width: 680px) {.themify_builder .post-91-1-0-0.module-post{font-family: Adamina; font-weight: 400; text-align: center; font-style: italic; }
+.themify_builder .post-91-1-0-0.module-post .post-title,.themify_builder .post-91-1-0-0.module-post .post-title a{font-family: Alike; }
+.themify_builder .post-91-1-0-0.module-post .post-title{font-weight: 400; text-decoration: underline; text-transform: uppercase; font-style: normal; }
+}
+.themify_builder .widgetized-91-1-1-0.module-widgetized{background-repeat: repeat; background-position: left top; font-family: Arial, Helvetica, sans-serif; color:#786162; font-size:18px; text-align: center; font-style: normal; }
+.themify_builder .widgetized-91-1-1-0.module.module-widgetized .module-title{font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif; }
+.themify_builder .widgetized-91-1-1-0 .widgettitle{font-family: 'Times New Roman', Times, serif; color:#080808; font-size:24px; text-align: center; font-style: italic; font-weight: 700; text-decoration: underline; }
+@media screen and (max-width: 768px) {.themify_builder .widgetized-91-1-1-0.module-widgetized{background-repeat: repeat; background-position: left top; }
+}
+.themify_builder .widgetized-91-1-1-1.module-widgetized{background-repeat: repeat; background-position: left top; padding-top:5%; padding-bottom:5em; }

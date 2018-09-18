@@ -1,0 +1,39 @@
+/* Themify Customize Styling */
+h1 {		font-weight:600;
+	font-size:80px;
+ 
+}
+#header {	background: none;
+	background-color: #ffffff;background-image: none; 
+}
+#pagewrap #headerwrap.fixed-header, .transparent-header #pagewrap #headerwrap.fixed-header {	
+	background-color: transparent; 
+}
+body[class*="themify"] #site-logo a img {		width: 100px;
+	height: 25px; 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+h1 {		font-weight:600;
+ 
+}
+.header-classic #headerwrap, #headerwrap {	background-image: none; 
+}
+#header {	background: none;
+	background-color: #ffffff;
+	font-family:Arial, Helvetica, sans-serif;	font-style:italic;
+	font-style:italic;
+	font-size:18px;
+	text-transform:uppercase;	text-align:left; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+h1 {		font-weight:600;
+ 
+}
+#header {	
+	font-family:Arial, Helvetica, sans-serif; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+h1 {		font-weight:600;
+ 
+}
+ }

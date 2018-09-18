@@ -1,0 +1,102 @@
+# Copyright (C) 2018 dvk-social-sharing
+# This file is distributed under the same license as the dvk-social-sharing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dvk-social-sharing\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/template-functions.php:17
+msgid "on LinkedIn"
+msgstr ""
+
+#: includes/template-functions.php:18
+msgid "on Twitter"
+msgstr ""
+
+#: includes/template-functions.php:19
+msgid "on Facebook"
+msgstr ""
+
+#: includes/template-functions.php:20
+msgid "on Google+"
+msgstr ""
+
+#: includes/views/settings-page.php:32
+msgid "Text before links"
+msgstr ""
+
+#: includes/views/settings-page.php:36
+msgid "The text to show before the sharing links."
+msgstr ""
+
+#: includes/views/settings-page.php:42
+msgid "Add to"
+msgstr ""
+
+#: includes/views/settings-page.php:55
+msgid "Automatically adds the sharing links to the end of the selected post types."
+msgstr ""
+
+#: includes/views/settings-page.php:61
+msgid "Social networks"
+msgstr ""
+
+#: includes/views/settings-page.php:74
+msgid "Show these social network options."
+msgstr ""
+
+#: includes/views/settings-page.php:80
+msgid "Load icon CSS?"
+msgstr ""
+
+#: includes/views/settings-page.php:86
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr ""
+
+#: includes/views/settings-page.php:92
+msgid "Icon size"
+msgstr ""
+
+#: includes/views/settings-page.php:105
+msgid "Load pop-up JS?"
+msgstr ""
+
+#: includes/views/settings-page.php:111
+msgid "A small JavaScript file of just 600 bytes so people won't have to leave your website to share."
+msgstr ""
+
+#: includes/views/settings-page.php:117
+msgid "Twitter username"
+msgstr ""
+
+#: includes/views/settings-page.php:121
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr ""
+
+#: includes/views/settings-page.php:139
+msgid "Happy with the plugin?"
+msgstr ""
+
+#: includes/views/settings-page.php:140
+msgid "If you like this plugin, consider supporting it in one the following ways."
+msgstr ""
+
+#: includes/views/settings-page.php:143
+msgid "Leave a %s review on WordPress.org"
+msgstr ""
+
+#: includes/views/settings-page.php:167
+msgid "Looking for support?"
+msgstr ""
+
+#: includes/views/settings-page.php:168
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr ""
